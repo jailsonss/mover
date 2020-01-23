@@ -1,0 +1,24 @@
+.teste{
+	color: red;
+}
+
+p{
+	color: blue;
+}
+
+.logo{
+	max-width: 100px;
+	max-height: 100px;
+	float: left;
+	margin-left: 0;
+}
+
+.menu{
+	position: absolute;
+	background-color: pink;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	margin-bottom: 100%;
+}
